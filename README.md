@@ -25,3 +25,4 @@ The analysis provides insights that can help restaurants optimize pricing, staff
 
 ##  Dataset
 Seaborn "tips" dataset
+![Project Thumbnail](thumbnail.png)
