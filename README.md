@@ -1,7 +1,7 @@
-## Restaurant Tipping Behavior Analysis 
+# Restaurant Tipping Behavior Analysis
 
-## 📊 Project Overview
-Performed Exploratory Data Analysis (EDA) on restaurant tipping dataset to understand customer behavior and spending patterns.
+## 📊 Objective
+Analyze customer spending and tipping behavior to extract business insights.
 
 ## 🛠 Tools Used
 - Python
@@ -9,13 +9,19 @@ Performed Exploratory Data Analysis (EDA) on restaurant tipping dataset to under
 - Seaborn
 - Matplotlib
 
-## 🔍 Key Insights
-- Higher bills generally lead to higher tips
-- Weekend shows higher customer spending
-- Tip percentage provides better understanding of customer generosity
+## 🔍 Key Analysis
+- Univariate and Bivariate Analysis
+- Tip Percentage Feature Engineering
+- Customer Segmentation (Gender, Day, Smoker)
+
+## 💡 Key Insights
+- Higher bills lead to higher tips (positive correlation)
+- Weekend shows higher spending patterns
+- Tip percentage reveals true customer generosity
+- Gender and smoking habits have minimal impact on tipping
+
+## 📈 Conclusion
+The analysis provides insights that can help restaurants optimize pricing, staffing, and customer experience.
 
 ## 📁 Dataset
 Seaborn "tips" dataset
-
-## 🚀 Conclusion
-This project demonstrates how data analysis can help businesses understand customer behavior and improve decision-making.
