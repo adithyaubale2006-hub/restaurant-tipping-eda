@@ -1,5 +1,5 @@
 # Restaurant Tipping Behavior Analysis
-
+![Project Thumbnail](thumbnail.pn)
 ##  Objective
 Analyze customer spending and tipping behavior to extract business insights.
 
@@ -25,4 +25,4 @@ The analysis provides insights that can help restaurants optimize pricing, staff
 
 ##  Dataset
 Seaborn "tips" dataset
-![Project Thumbnail](thumbnail.png)
+
