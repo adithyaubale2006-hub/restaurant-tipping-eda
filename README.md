@@ -8,6 +8,19 @@ Analyze customer spending and tipping behavior to extract business insights.
 - Pandas
 - Seaborn
 - Matplotlib
+- Power BI
+- DAX
+- Data Cleaning
+- Data Visualization
+
+## Dashboard features 
+- KPI Cards (Total Revenue, Total Tips, Avg Tip %)
+- Revenue by Day
+- Tip % Analysis
+- Interactive Filters (Day, Customer Type)
+
+## Dashboard Preview
+<img width="570" height="429" alt="image" src="https://github.com/user-attachments/assets/7539ccf7-50cc-4d28-a48f-e1f72040a167" />
 
 ##  Key Analysis
 - Univariate and Bivariate Analysis
